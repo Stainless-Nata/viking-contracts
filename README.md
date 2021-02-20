@@ -1,12 +1,12 @@
-# Goose Finance
+# Viking Swap
 
-https://goosedefi.com Feel free to read the code. More details coming soon.
+https://www.vikingswap.finance Feel free to read the code. More details coming soon.
 
 ## Deployed Contracts / Hash
 
 ### BSCMAINNET
 
-- EggToken - https://bscscan.com/token/0xf952fc3ca7325cc27d15885d37117676d25bfda6
-- MasterChef - https://bscscan.com/address/0xe70E9185F5ea7Ba3C5d63705784D8563017f2E57
-- Timelock - https://bscscan.com/address/0x2Ef488DE034567e9B8D312928fD52812A242aB3A
+- VikingToken - https://bscscan.com/token/0x896eDE222D3f7f3414e136a2791BDB08AAa25Ce0
+- MasterChef - https://bscscan.com/address/0xEf6e807fD2c0Ef5883A03Ed1b962333E8C9b725f
+- Timelock - https://bscscan.com/address/0xc9d5dE27Cffa9F249211ac2CF5fD1f789d7018D5
 - MultiCall - https://bscscan.com/address/0x1ee38d535d541c55c9dae27b12edf090c608e6fb
